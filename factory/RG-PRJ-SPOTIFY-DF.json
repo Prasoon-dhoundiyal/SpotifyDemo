@@ -1,0 +1,15 @@
+{
+	"name": "RG-PRJ-SPOTIFY-DF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18ec11a9-c2d9-471d-a68d-7d4e19c5a074",
+		"tenantId": "3165dc4c-862b-4bf8-b522-d12b085538ba"
+	}
+}
